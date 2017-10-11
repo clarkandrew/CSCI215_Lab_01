@@ -1,5 +1,6 @@
+# ANDREW CLARK
+
 # Lab_01 - HTML/CSS Refresher
-Name: Andrew Clark
 
 ## DUE: 03 Sep 2017
 
